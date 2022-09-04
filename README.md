@@ -1,7 +1,7 @@
 Hi 👋 My name is Mandela Mitau
 ==============================
 
-Web Developer and Knowledge Engineer
+Software Developer and Knowledge Engineer
 ------------------------------------
 
 * 🌍  I'm based in Nairobi
