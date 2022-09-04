@@ -6,7 +6,7 @@ Software Developer and Knowledge Engineer
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [mandelamitan@gmail.com](mailto:mandelamitan@gmail.com)
-* 🤝  I'm open to collaborating on Web Projects
+* 🤝  I'm open to collaborating on Open source Projects
 
 ### Skills
 
