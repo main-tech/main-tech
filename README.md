@@ -17,6 +17,8 @@ Hi, I'm Mandela Mitau, a software developer and cloud architect with a passion f
 <a href="https://nextjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" alt="Next.js Logo" width="100" height="50"></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://vuejs.org/images/logo.png" alt="Vue.js" height="36" width="36"></a>
 <a href="https://capacitorjs.com/" target="_blank"><img src="https://capacitorjs.com/docs/assets/images/capacitor-index-51336ba21d2a831d216e4d8f6a2ccb9c.png" alt="Capacitor" height="36" width="66.029268276"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" height="36" width="36"></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" height="36" width="66.029268276"></a>
 
 </p>
 
