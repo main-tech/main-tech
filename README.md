@@ -4,7 +4,6 @@
 Software Developer
 ------------------------------------
 
-* 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [mandelamitan@gmail.com](mailto:mandelamitan@gmail.com)
 * 🤝  I'm open to collaborate on Open source Projects
 
