@@ -5,7 +5,7 @@
 Hi, I'm Mandela Mitau, a software developer and cloud architect with a passion for creating scalable applications. I have experience in building a variety of projects, from small-scale applications to large enterprise systems. I'm particularly interested in open source projects and enjoy collaborating with others in the development community. I'm a strong team player with excellent communication skills that help me work effectively with clients, stakeholders, and team members.
 * ✉️ [mandelamitan@gmail.com](mailto:mandelamitan@gmail.com)
 
-### Skills
+### Tools
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
