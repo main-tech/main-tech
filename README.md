@@ -1,4 +1,4 @@
- # Mandela Mitau
+ # Mandela Muithi
 
 **`Digital Artisan (Software Developer/Cloud Architect)`**
 
