@@ -1,6 +1,6 @@
  # Mandela Muithi
 
-**`Devops/SRE)`**
+**`Devops/SRE`**
 
 Hi, I'm Mandela Mitau, I am a Site Reliability / DevOps Engineer with a strong focus on designing, automating, and operating scalable, resilient systems. I have hands-on experience supporting everything from small services to large, production-grade platforms, with an emphasis on reliability, observability, and performance. I am particularly interested in infrastructure automation, cloud-native technologies, and open-source tooling, and I enjoy collaborating with engineers to improve system stability and delivery velocity. I’m a strong team player with clear communication skills, enabling me to work effectively with developers, stakeholders, and cross-functional teams to translate requirements into reliable, well-operated systems.
 
